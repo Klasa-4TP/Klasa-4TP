@@ -22,4 +22,8 @@
 
 11. Dima Chumachenko
 
-12. 
+12. Maksym Olshanskyi
+
+13. Oskar Łaczmański
+
+14. Denis Olshanskyi
