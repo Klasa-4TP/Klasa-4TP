@@ -10,20 +10,23 @@
 
 5. Kuba Piwowarski
 
-6. Marek Janik 
+6. Marek Janik
+   {
+     26.10.2023
+   }
 
-7. Maja Dobruchowska 
+9. Maja Dobruchowska 
 
-8. Kacper Stasiak
+10. Kacper Stasiak
 
-9. Maciej Rozpara
+11. Maciej Rozpara
 
-10. Norbet Lipiński
+12. Norbet Lipiński
 
-11. Dima Chumachenko
+13. Dima Chumachenko
 
-12. Maksym Olshanskyi
+14. Maksym Olshanskyi
 
-13. Oskar Łaczmański
+15. Oskar Łaczmański
 
-14. Denis Olshanskyi
+16. Denis Olshanskyi
