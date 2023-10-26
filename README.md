@@ -18,10 +18,13 @@
 9. Maja Dobruchowska 
 
 10. Kacper Stasiak
+    {
+    26.10.2023 +
+    }
 
-11. Maciej Rozpara
+12. Maciej Rozpara
 
-12. Norbet Lipiński
+13. Norbet Lipiński
    {
      26.10.2023
    }
