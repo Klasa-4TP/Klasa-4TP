@@ -22,11 +22,14 @@
 11. Maciej Rozpara
 
 12. Norbet Lipiński
+   {
+     26.10.2023
+   }
 
-13. Dima Chumachenko
+14. Dima Chumachenko
 
-14. Maksym Olshanskyi
+15. Maksym Olshanskyi
 
-15. Oskar Łaczmański
+16. Oskar Łaczmański
 
-16. Denis Olshanskyi
+17. Denis Olshanskyi
