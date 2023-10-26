@@ -23,7 +23,9 @@
     }
 
 12. Maciej Rozpara
-
+    {
+    26.10.2023 +
+    }
 13. Norbet Lipiński
    {
      26.10.2023
