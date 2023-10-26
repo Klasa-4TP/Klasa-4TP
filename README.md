@@ -26,4 +26,6 @@
 
 13. Oskar Łaczmański
 
-14. Denis Olshanskyi
+14. Denis Olshanskyi {
+    26.10.2023
+    }
