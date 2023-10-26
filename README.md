@@ -1,7 +1,9 @@
 # Lista Obecności 
 
 1. Kacper Bujalski
-
+       {
+    26.10.2023 +
+    }
 2. Adrian Byczek 
 
 3. Damian Olczak
@@ -32,9 +34,18 @@
    }
 
 14. Dima Chumachenko
-
+       {
+    26.10.2023 +
+    }
 15. Maksym Olshanskyi
-
+    {
+    26.10.2023 +
+    }
 16. Oskar Łaczmański
-
+    {
+    26.10.2023 +
+    }
 17. Denis Olshanskyi
+    {
+    26.10.2023 +
+    }
