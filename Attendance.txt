@@ -55,6 +55,7 @@ Maciej Rozpara
        20.10.2023
        24.10.2023
        26.10.2023
+       27.10.2023
 }
 Norbet Lipiński
 {
