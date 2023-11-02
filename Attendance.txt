@@ -78,6 +78,7 @@ Norbet Lipiński
        24.10.2023 +
        26.10.2023 +
        27.10.2023 +
+       02.11.2023 +
 }
 Dima Chumachenko
 {
