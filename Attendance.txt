@@ -21,7 +21,6 @@ Kornel Góra
 }
 Kuba Piwowarski
 {
-  
   06.09.2023
   07.09.2023 
   13.09.2023 
