@@ -126,6 +126,7 @@ Kacper Stasiak
     24.10.2023
     26.10.2023
     02.11.2023
+    07.11.2023
 }
 Maciej Rozpara
 {
