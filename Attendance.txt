@@ -213,6 +213,7 @@ Maksym Olshanskyi
        27.10.2023
        03.11.2023
        07.11.2023
+       09.11.2023
 }
 Oskar Łaczmański
 {
