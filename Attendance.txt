@@ -246,6 +246,7 @@ Oskar Łaczmański
        02.11.2023
        03.11.2023
        10.11.2023
+       16.11.2023
 }
 Denis Olshanskyi
 {
