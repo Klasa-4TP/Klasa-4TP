@@ -196,6 +196,7 @@ Norbet Lipiński
        07.11.2023
        10.11.2023
        16.11.2023
+       17.11.2023
 }
 Dima Chumachenko
 {
