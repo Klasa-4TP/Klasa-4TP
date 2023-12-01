@@ -155,6 +155,7 @@ Maja Dobruchowska
 	16.11.2023
 	17.11.2023
 	23.11.2023
+	01.12.2023	
 }
 Kacper Stasiak
 {
